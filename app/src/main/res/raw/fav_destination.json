@@ -1,0 +1,78 @@
+{
+  "diagnostic": {
+    "status": 200,
+    "elapsetime": "0.0618",
+    "memoryusage": "5.3MB",
+    "unix_timestamp": 1399957591,
+    "confirm": "success",
+    "lang": "id",
+    "currency": "IDR"
+  },
+  "output_type": "json",
+  "popular_destinations": {
+    "airport": [
+      {
+        "arrival_city": "DPS",
+        "business_name": "SOEKARNO - HATTA",
+        "province_name": "DKI Jakarta"
+      },
+      {
+        "arrival_city": "SUB",
+        "business_name": "SOEKARNO - HATTA",
+        "province_name": "DKI Jakarta"
+      },
+      {
+        "arrival_city": "SIN",
+        "business_name": "SOEKARNO - HATTA",
+        "province_name": "DKI Jakarta"
+      },
+      {
+        "arrival_city": "KNO",
+        "business_name": "SOEKARNO - HATTA",
+        "province_name": "DKI Jakarta"
+      },
+      {
+        "arrival_city": "JOG",
+        "business_name": "SOEKARNO - HATTA",
+        "province_name": "DKI Jakarta"
+      },
+      {
+        "arrival_city": "UPG",
+        "business_name": "SOEKARNO - HATTA",
+        "province_name": "DKI Jakarta"
+      },
+      {
+        "arrival_city": "SOC",
+        "business_name": "SOEKARNO-HATTA",
+        "province_name": "DKI Jakarta"
+      },
+      {
+        "arrival_city": "PDG",
+        "business_name": "SOEKARNO - HATTA",
+        "province_name": "DKI Jakarta"
+      },
+      {
+        "arrival_city": "BTH",
+        "business_name": "SOEKARNO-HATTA",
+        "province_name": "DKI Jakarta"
+      },
+      {
+        "arrival_city": "PKU",
+        "business_name": "SOEKARNO - HATTA",
+        "province_name": "DKI Jakarta"
+      },
+      {
+        "arrival_city": "MDC",
+        "business_name": "SOEKARNO - HATTA",
+        "province_name": "DKI Jakarta"
+      },
+      {
+        "arrival_city": "PLM",
+        "business_name": "SOEKARNO - HATTA",
+        "province_name": "DKI Jakarta"
+      }
+    ]
+  },
+  "login_status": "false",
+  "token": "c5a32cce21b11d6e9a764ca685b5ee10378647ee"
+}
